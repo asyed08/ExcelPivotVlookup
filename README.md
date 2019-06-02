@@ -1,2 +1,2 @@
 # ExcelPivotVlookup
-Created Pivot Table with IFERROR, VLOOKUP, CONCATENATE, Functions that also used Conditional Formatting
+Created Pivot Table that includes IFERROR, VLOOKUP, CONCATENATE Functions as well as Conditional Formatting
